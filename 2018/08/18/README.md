@@ -1,4 +1,5 @@
-# blog
+# github入门
+- github
 小白的技术&amp;生活博客
 ## git速成
 ### 什么是git
